@@ -12,6 +12,7 @@
     <artifactId>just-for-joy-echo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>just-for-joy-echo</name>
+    <packaging>war</packaging>
     <description>Demo project for Spring Boot</description>
 
     <properties>
